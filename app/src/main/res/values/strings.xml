@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CycleView Pager</string>
+    <string name="long_text">Finally, add the following code in MainActivity.java. Here, when the user clicks on the download button, it checks whether there is permission to access the external storage. If the permission is present, it calls an Async Task to download the file with the user inputted URL. If the permission is not present, it asks for the same.</string>
+</resources>
